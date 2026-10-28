@@ -5,6 +5,6 @@ categories:
   - 大数据
 tags:
   - Hadoop
-  - Spark
 ---
 # 这是一个测试页。
+![hdfs架构图](hdfsarchitecture.png)

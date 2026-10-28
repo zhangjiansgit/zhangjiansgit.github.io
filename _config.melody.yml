@@ -132,9 +132,9 @@ cdn:
 
 # Post info settings
 # ---------------
-avatar: /images/avatar.jpg
+avatar: /images/avatar/avatar.jpg
 
-top_img: /images/top.jpg # false or url of img
+top_img: /images/top/top.jpg # false or url of img
 
 top_img_height: 60 # best range: 60 - 100
 
