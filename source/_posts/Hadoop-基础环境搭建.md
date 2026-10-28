@@ -1,7 +1,6 @@
 ---
 title: Hadoop 基础环境搭建
 date: 2026-10-28
-permalink: bigdata/hadoop/
 categories:
   - 大数据
 tags:
